@@ -1,4 +1,4 @@
-@media (max-width:480px){
+/* @media (max-width:480px){
     .bgm{
         background:url(bas.jpg) no-repeat 50% 50%;
         /* width:98%; */
@@ -27,7 +27,7 @@
         width:50%;
     }
     
-}
+} */
 .bgm{
     background-position: center center;
     background-attachment: fixed;
